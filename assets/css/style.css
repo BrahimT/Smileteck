@@ -9,6 +9,7 @@ a {
     color: #149ddd;
     text-decoration: none;
 }
+div {text-align: center;}
 
 a:hover {
     color: #37b3ed;
